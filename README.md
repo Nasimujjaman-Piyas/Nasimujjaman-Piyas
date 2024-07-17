@@ -1,4 +1,3 @@
-https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif
 ## Hi there 👋
 
 <!--
@@ -15,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif
